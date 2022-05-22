@@ -1,0 +1,4 @@
+[qBittorrent]
+title=qBittorrent
+description=qBittorrent BitTorrent client
+ports=8500/tcp

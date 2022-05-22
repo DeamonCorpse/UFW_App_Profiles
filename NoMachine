@@ -1,0 +1,4 @@
+[NoMachine]
+title=NoMachine
+description=NoMachine NX & SSH connection protocols
+ports=4000|4022

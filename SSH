@@ -1,0 +1,4 @@
+[SSH]
+title=SSH server
+description=SSH server
+ports=50666/tcp

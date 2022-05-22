@@ -1,0 +1,19 @@
+[Prowlarr]
+title=Prowlarr
+description=Torrent indexer
+ports=9696/tcp
+
+[Radarr]
+title=Radar
+description=Movie manager
+ports=7878/tcp
+
+[Sonarr]
+title=Sonarr
+description=TV-shows manager
+ports=8989/tcp
+
+[ARRs]
+title=The ARRs
+description=Prowlarr, Sonarr, Radarr, Overseerr
+ports=9696,7878,8989/tcp

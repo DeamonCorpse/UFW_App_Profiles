@@ -1,0 +1,4 @@
+[Glances]
+title=Glances
+description=System Monitoring
+ports=61208:61209/tcp

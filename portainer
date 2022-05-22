@@ -1,0 +1,4 @@
+[Portainer]
+title=Portainer
+description=Docker Container Management
+ports=8000,9000/tcp

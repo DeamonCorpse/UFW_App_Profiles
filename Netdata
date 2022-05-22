@@ -1,0 +1,4 @@
+[Netdata]
+title=Netdata
+description=Netdata protocol
+ports=19999/tcp

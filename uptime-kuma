@@ -1,0 +1,4 @@
+[UPTIME-KUMA]
+title=Uptime-Kuma
+description=Monitoring Portal
+ports:3001/tcp

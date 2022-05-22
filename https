@@ -1,0 +1,4 @@
+[HTTPS]
+title=HTTPS
+description=Secure HTTP
+ports=443/tcp

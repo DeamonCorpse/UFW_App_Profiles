@@ -1,0 +1,4 @@
+[OVERSEERR]
+title=Overseerr
+description=Media Requests
+ports=5055/tcp

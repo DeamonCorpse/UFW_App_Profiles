@@ -1,0 +1,4 @@
+[Webmin]
+title=Webmin
+description=Webmin access protocol
+ports=11000:12000/tcp
