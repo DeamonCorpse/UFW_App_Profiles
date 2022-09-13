@@ -1,4 +1,0 @@
-[PLEX]
-title=Plex
-description=Media Player
-ports=1900,5353,32410,32412:32414/udp|8324,32469/tcp
