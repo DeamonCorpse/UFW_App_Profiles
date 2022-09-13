@@ -1,4 +1,4 @@
 [DHCP6]
-title=dhcp6
+title=DHCP6
 description=Dynamic Host Configuration Protocol (DHCP) via IPv6
 ports=546:547/tcp|546:547/udp
